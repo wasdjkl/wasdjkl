@@ -33,6 +33,7 @@ const Layout = ({ children }) => {
           padding: `0 1.0875rem 1.45rem`,
         }}
       >
+        <main>{children}</main>
         <footer>
           © {new Date().getFullYear()}, Built with
           {` `}
@@ -43,7 +44,7 @@ const Layout = ({ children }) => {
           {` `}
           using <a href="https://www.gatsbyjs.org">Gatsby</a>,
           {` `}
-          <a target="_blank" href="http://www.beian.miit.gov.cn/">辽ICP备19013759号-1</a>
+          <a href="http://www.beian.miit.gov.cn/">辽ICP备19013759号-1</a>
         </footer>
       </div>
     </>
