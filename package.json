@@ -1,44 +1,88 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "wasdjkl",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "wasdjkl",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "dependencies": {
-    "gatsby": "^2.19.7",
-    "gatsby-image": "^2.2.39",
-    "gatsby-plugin-manifest": "^2.2.39",
-    "gatsby-plugin-offline": "^3.0.32",
-    "gatsby-plugin-react-helmet": "^3.1.21",
-    "gatsby-plugin-sharp": "^2.4.3",
-    "gatsby-source-filesystem": "^2.1.46",
-    "gatsby-transformer-sharp": "^2.3.13",
-    "prop-types": "^15.7.2",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-helmet": "^5.2.1"
-  },
-  "devDependencies": {
-    "prettier": "^1.19.1"
-  },
-  "keywords": [
-    "gatsby"
-  ],
-  "license": "MIT",
+  "author": "wasdjkl <wasd_jkl@outlook.com>",
   "scripts": {
-    "build": "gatsby build",
     "develop": "gatsby develop",
-    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "start": "npm run develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
+    "restart": "yarn clean & yarn start",
+    "install-modules": "yarn install",
+    "upgrade-modules": "yarn upgrade-interactive --latest & yarn upgrade",
+    "clean-modules": "rmdir node_modules /s /q",
+    "check": "prettier --check \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "pretty-quick": "pretty-quick",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
+  "dependencies": {
+    "@fontsource/noto-sans-sc": "^4.1.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-brands-svg-icons": "^5.15.2",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "gatsby": "^2.31.1",
+    "gatsby-image": "^2.10.0",
+    "gatsby-plugin-canonical-urls": "^2.9.0",
+    "gatsby-plugin-feed": "^2.12.0",
+    "gatsby-plugin-manifest": "^2.11.0",
+    "gatsby-plugin-mdx": "^1.9.0",
+    "gatsby-plugin-offline": "^3.9.0",
+    "gatsby-plugin-page-creator": "^2.9.0",
+    "gatsby-plugin-react-helmet": "^3.9.0",
+    "gatsby-plugin-sharp": "^2.13.1",
+    "gatsby-plugin-twitter": "^2.9.0",
+    "gatsby-remark-copy-linked-files": "^2.9.0",
+    "gatsby-remark-images": "^3.10.0",
+    "gatsby-remark-mermaid": "^2.1.0",
+    "gatsby-remark-prismjs": "^3.12.0",
+    "gatsby-remark-responsive-iframe": "^2.10.0",
+    "gatsby-remark-smartypants": "^2.9.0",
+    "gatsby-source-filesystem": "^2.10.0",
+    "gatsby-transformer-remark": "^2.15.0",
+    "gatsby-transformer-sharp": "^2.11.0",
+    "normalize.css": "^8.0.1",
+    "prism-themes": "^1.5.0",
+    "prismjs": "^1.21.0",
+    "prop-types": "^15.7.2",
+    "puppeteer": "^5.5.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "typeface-merriweather": "^1.1.13",
+    "typeface-montserrat": "^1.1.13"
+  },
+  "devDependencies": {
+    "husky": "^4.3.8",
+    "prettier": "^2.2.1",
+    "pretty-quick": "^3.1.0"
+  },
+  "keywords": [
+    "wasdjkl"
+  ],
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/wasdjkl/wasdjkl"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/wasdjkl/wasdjkl/issues"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn format"
+    }
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,json,md}": [
+      "prettier --write",
+      "pretty-quick --staged",
+      "console.log('test')"
+    ]
   }
 }
