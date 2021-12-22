@@ -68,15 +68,8 @@ Systems
 Others  
 ![AutoHotkey](https://img.shields.io/badge/-AutoHotkey-334455.svg?style=flat-square&logo=AutoHotkey&logoColor=white)
 
-<p align="center">
-<img width="500" src="https://metrics.lecoq.io/wasdjkl" alt="Github Metrics">
-</p>
 
-<br>
-
-|![](https://github-readme-stats.vercel.app/api?username=wasdjkl&&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasdjkl&layout=compact&langs_count=10)|
-|-|-|
-
+![Metrics](https://metrics.lecoq.io/wasdjkl?template=classic&achievements=1&achievements.threshold=B&achievements.secrets=true&achievements.display=detailed&achievements.limit=0)
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wasdjkl" alt="wasdjkl"/></p>
 <br>
