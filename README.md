@@ -19,24 +19,24 @@ Here are some ideas to get you started:
 
 ### 👷 **Full Stack Developer**  
 
-
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=wasdjkl" alt="wasdjkl"/>
 
 <a target="_blank" href=https://twitter.com/wasdjkl_>
-  <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
-  &nbsp;
+    <img src="https://img.shields.io/badge/-@wasdjkl-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wasdjkl">
 </a>
-
 <a target="_blank" href=mailto:wasd_jkl@outlook.com>
-  <img height="25" width="25" src="https://outlook-1.cdn.office.net/assets/mail/pwa/v1/pngs/apple-touch-icon.png" />
+    <img src="https://img.shields.io/badge/-wasd_jkl@outlook.com-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=microsoftoutlook&logoColor=white&link=mailto:wasd_jkl@outlook.com">
   &nbsp;
 </a>
-
 <a target="_blank" href=https://www.wasdjkl.com >
   <img height="25" width="25" src="https://avatars.githubusercontent.com/u/13827327" />
   &nbsp;
 </a>
 </p>
+
+![Keybase BTC](https://img.shields.io/keybase/btc/wasdjkl)
+![Keybase PGP](https://img.shields.io/keybase/pgp/wasdjkl)
 
 <a target="_blank" href="https://github.com/wasdjkl.keys">OPENSSH PUBLIC KEY</a>
 |
@@ -70,6 +70,3 @@ Others
 
 
 ![Metrics](https://metrics.lecoq.io/wasdjkl?template=classic&achievements=1&achievements.threshold=B&achievements.secrets=true&achievements.display=detailed&achievements.limit=0)
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wasdjkl" alt="wasdjkl"/></p>
-<br>
