@@ -47,7 +47,7 @@ curl https://github.com/wasdjkl.keys | tee -a ~/.ssh/authorized_keys
 ```
 
 ## ⚡ Tech Stack
-<img align="right" width="255" src="https://github.githubassets.com/images/mona-loading-default.gif">
+<!-- <img align="right" width="255" src="https://github.githubassets.com/images/mona-loading-default.gif"> -->
 
 Frontend  
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D.svg?style=flat&logo=Vue.js&logoColor=white)
