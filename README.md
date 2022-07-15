@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 ### 👷 **Full Stack Developer**  
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=wasdjkl" alt="wasdjkl"/>
-
 <a target="_blank" href=https://twitter.com/wasdjkl_>
     <img src="https://img.shields.io/badge/-@wasdjkl-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wasdjkl">
 </a>
@@ -29,14 +26,16 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-wasd_jkl@outlook.com-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=microsoftoutlook&logoColor=white&link=mailto:wasd_jkl@outlook.com">
   &nbsp;
 </a>
-<a target="_blank" href=https://www.wasdjkl.com >
-  <img height="25" width="25" src="https://avatars.githubusercontent.com/u/13827327" />
-  &nbsp;
-</a>
-</p>
 
-![Keybase BTC](https://img.shields.io/keybase/btc/wasdjkl)
+<img src="https://komarev.com/ghpvc/?username=wasdjkl" alt="wasdjkl"/>
+
 ![Keybase PGP](https://img.shields.io/keybase/pgp/wasdjkl)
+
+<a target="_blank" href=https://www.wasdjkl.com >
+ 🏠 https://www.wasdjkl.com
+</a>
+
+## 🔑 Keys
 
 <a target="_blank" href="https://github.com/wasdjkl.keys">OPENSSH PUBLIC KEY</a>
 |
